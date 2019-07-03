@@ -72,18 +72,18 @@
 # #### 6a.  Create a class called Animal that initializes with a color.  Create a method in the class called legs that returns 4.
 
 # # your class here
-class Animal
-    def initialize (color, name)
-        @color = color
-        @legs = 4
-        @name = name
-    end
+# class Animal
+#     def initialize (color, name)
+#         @color = color
+#         @legs = 4
+#         @name = name
+#     end
     
-    def legs
-      "The #{@color} #{@name} has #{@legs} legs"
-    end
-end
+#     def legs
+#       "The #{@color} #{@name} has #{@legs} legs"
+#     end
+# end
 # #### 6b.  Create a new instance of an Animal with a brown color.  Return how many legs the animal has.
 
-bear = Animal.new("Brown", "Bear")
-p bear.legs
+# bear = Animal.new("Brown", "Bear")
+# p bear.legs

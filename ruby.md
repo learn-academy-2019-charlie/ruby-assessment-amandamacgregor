@@ -5,7 +5,7 @@ Try your best to answer each question on your own before looking up the answer o
 2. What does it mean that a class inherits from another class? Try to explain Ruby inheritance.
 //Your Answer
 
-//Googled Answer
+//Googled Answer]
 
 3. What is rspec and what is the general process for writing tests in RSpec?
 //Your Answer

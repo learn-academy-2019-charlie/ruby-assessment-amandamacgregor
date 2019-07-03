@@ -57,8 +57,7 @@ x = 1022
 puts "I am printing a random number #{x}"
 ```
 
-#### 6. How do you feel about testing right now? What potential pros/cons/barriers/advantages
-#### do you see to implementing BDD in your own code?
+#### 6. How do you feel about testing right now? What potential pros/cons/barriers/advantages do you see to implementing BDD in your own code?
 
 //Your Answer
 I feel good about it, but haven't built it into recent quick challenges - 
